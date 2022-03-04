@@ -1,0 +1,47 @@
+header {
+    width: 351;
+    height: 113;
+    text-align: center;
+}
+input {
+    width: 19%
+}
+.container {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+
+.card-up {
+    background-color: #EEEEEE;
+    padding:0 0 13px 0;
+}
+.card-left {
+    float: left;
+    background-color: #7EE5DA;
+    width: 36.9%;
+    padding: 9px;
+    margin: 2px 2px 0 0;
+}
+.card-middle {
+    float: left;
+    background-color: #70CCC2;
+    width: 18.9%;
+    font-size: 13px;
+    padding: 6px;
+    margin: 2px 2px 0 0;
+}
+.card-right {
+    float: left;
+    background: #62B3AA;
+    width: 41.3%;
+    font-size: 13px;
+    margin: 2px 0 0 2px;
+}
+.clean {
+    clear: both;
+}
+footer {
+    text-align: center;
+    font-size: 13px1;
+}
